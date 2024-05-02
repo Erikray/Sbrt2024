@@ -13,7 +13,7 @@ with help from Cicicok */
 uint32_t chipId = 0;
 
 void setup() {
-	Serial.begin(115200);
+	Serial.begin(9600);
 }
 
 void loop() {
